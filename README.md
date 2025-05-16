@@ -1,0 +1,1 @@
+https://www.figma.com/design/rIB2VCG496hLDcUKfRFhoh/Horizon-UI---Trendiest-Open-Source-Admin-Template-Dashboard--Community-
