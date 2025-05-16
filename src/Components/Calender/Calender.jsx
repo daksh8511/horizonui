@@ -18,7 +18,7 @@ const Calender = () => {
 export default Calender;
 
 const Wrapper = styled.div`
-  .css-5wchs2-MuiDateCalendar-root {
+  .MuiDateCalendar-root {
     width: 100%;
     max-height: 290px;
   }
